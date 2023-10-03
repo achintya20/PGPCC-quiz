@@ -1,2 +1,2 @@
 # PGPCC-quiz
-pgpcc - GreatLearning test your understanding
+pgpcc - GreatLearning test your understandings
